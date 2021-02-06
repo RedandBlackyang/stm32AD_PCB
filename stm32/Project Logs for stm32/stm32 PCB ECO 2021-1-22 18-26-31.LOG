@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=CH340_D+ Pin=U2-5
+Added Pin To Net: NetName=CH340_D- Pin=U2-6
+Added Member To Class: ClassName=stm32b Member=Component USB2 USB
+Added Room: Name=stm32
+Added Room: Name=stm32b

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=USB_5V Pin=L1-1
+Added Component: Designator=SW?(SS-12F23)
+Added Pin To Net: NetName=USB_5V Pin=SW?-2
+Added Pin To Net: NetName=GND Pin=SW?-4
+Added Pin To Net: NetName=GND Pin=SW?-5
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=SW?-3
+Added Net: Name=NetL1_1
+Added Member To Class: ClassName=stm32b Member=Component SW? POWER_SW_ss12f23

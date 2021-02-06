@@ -1,0 +1,24 @@
+Added Component: Designator=SW1(按键)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片4x4轻触开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(按键)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片4x4轻触开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=SW3(按键)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片4x4轻触开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RESET Pin=SW1-1
+Added Pin To Net: NetName=VREF- Pin=SW1-2
+Added Pin To Net: NetName=VREF- Pin=SW1-3
+Added Pin To Net: NetName=RESET Pin=SW1-4
+Added Pin To Net: NetName=NetC19_1 Pin=SW2-1
+Added Pin To Net: NetName=+3.3V Pin=SW2-2
+Added Pin To Net: NetName=+3.3V Pin=SW2-3
+Added Pin To Net: NetName=NetC19_1 Pin=SW2-4
+Added Pin To Net: NetName=NetC20_1 Pin=SW3-1
+Added Pin To Net: NetName=+3.3V Pin=SW3-2
+Added Pin To Net: NetName=NetC20_2 Pin=SW3-3
+Added Pin To Net: NetName=NetC20_1 Pin=SW3-4
+Added Member To Class: ClassName=stm32 Member=Component SW1 4x4x1.5
+Added Member To Class: ClassName=stm32b Member=Component SW2 4x4x1.5
+Added Member To Class: ClassName=stm32b Member=Component SW3 4x4x1.5

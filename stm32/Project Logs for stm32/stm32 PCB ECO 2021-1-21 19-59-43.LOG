@@ -1,0 +1,86 @@
+Removed Pin From Net: NetName=D+ Pin=P2-34
+Removed Pin From Net: NetName=D+ Pin=P2-34
+Change Component Footprint: Designator=X2 Old Footprint=HC-49S New Footprint=Radial,2x6mm
+Change Component Footprint: Designator=X3 Old Footprint=HC-49S New Footprint=Radial,2x6mm
+Added Component: Designator=BT1(CR1220-2 电池卧式底座)
+Added Component: Designator=C7(1210)
+Added Component: Designator=D1(0805)
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为假冒，请立即申请退款，本店奖励现金5~20元"; VariantName = "[No Variations]"
+Added Component: Designator=D2(DO-204AH(DO-35))
+Add component (AddParameter): Name = "BOM名称"; Value = "高速开关二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=L1(0805)
+Add component (AddParameter): Name = "BOM名称"; Value = "一体成型电感"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入均为盗版假冒封装库，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(led3色)
+Add component (AddParameter): Name = "BOM名称"; Value = "三基色LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT-23)
+Add component (AddParameter): Name = "BOM名称"; Value = "高频放大-NPN型"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "参数"; Value = "40V 1.5A 1W 100MHZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT-23)
+Add component (AddParameter): Name = "BOM名称"; Value = "高频放大-PNP型"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "参数"; Value = "40V 1.5A 1W 100MHZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(按键)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片4x4轻触开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(按键)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片4x4轻触开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=SW3(按键)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片4x4轻触开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=SW4(SS-12F23)
+Added Pin To Net: NetName=VREF- Pin=BT1-1
+Added Pin To Net: NetName=VBAT Pin=BT1-2
+Added Pin To Net: NetName=RESET Pin=C7-1
+Added Pin To Net: NetName=VREF- Pin=C7-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=VREF- Pin=D1-2
+Added Pin To Net: NetName=RESET Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=+5V Pin=L1-2
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_3 Pin=LED1-3
+Added Pin To Net: NetName=+3.3V Pin=LED1-4
+Added Pin To Net: NetName=D- Pin=P2-34
+Added Pin To Net: NetName=D- Pin=P2-34
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetD2_2 Pin=Q1-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=+3.3V Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=RESET Pin=SW1-1
+Added Pin To Net: NetName=VREF- Pin=SW1-2
+Added Pin To Net: NetName=VREF- Pin=SW1-3
+Added Pin To Net: NetName=RESET Pin=SW1-4
+Added Pin To Net: NetName=NetC19_1 Pin=SW2-1
+Added Pin To Net: NetName=+3.3V Pin=SW2-2
+Added Pin To Net: NetName=+3.3V Pin=SW2-3
+Added Pin To Net: NetName=NetC19_1 Pin=SW2-4
+Added Pin To Net: NetName=NetC20_1 Pin=SW3-1
+Added Pin To Net: NetName=+3.3V Pin=SW3-2
+Added Pin To Net: NetName=NetC20_2 Pin=SW3-3
+Added Pin To Net: NetName=NetC20_1 Pin=SW3-4
+Added Pin To Net: NetName=USB_5V Pin=SW4-2
+Added Pin To Net: NetName=NetL1_1 Pin=SW4-3
+Added Member To Class: ClassName=stm32b Member=Component BT1 BATTERY
+Added Member To Class: ClassName=stm32 Member=Component C7 104
+Added Member To Class: ClassName=stm32b Member=Component D1 LED
+Added Member To Class: ClassName=stm32b Member=Component D2 1N4148
+Added Member To Class: ClassName=stm32b Member=Component L1 500MA
+Added Member To Class: ClassName=stm32b Member=Component LED1 RGB-3528
+Added Member To Class: ClassName=stm32b Member=Component Q1 SS8050
+Added Member To Class: ClassName=stm32b Member=Component Q2 SS8550
+Added Member To Class: ClassName=stm32 Member=Component SW1 4x4x1.5
+Added Member To Class: ClassName=stm32b Member=Component SW2 4x4x1.5
+Added Member To Class: ClassName=stm32b Member=Component SW3 4x4x1.5
+Added Member To Class: ClassName=stm32b Member=Component SW4 POWER_SW_SS-12F44-G5

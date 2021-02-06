@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=FSMC_D7 Pin=P2-1
+Removed Pin From Net: NetName=PC10 Pin=U1-27
+Added Pin To Net: NetName=FSMC_NBL1 Pin=P2-1
+Added Pin To Net: NetName=PC1 Pin=U1-27
+Change Net Name : Old Net Name=KEY New Net Name=KEY2

@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Added Member To Class: ClassName=stm32 Member=Component P2 HEAD2*27

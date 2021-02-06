@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=BOOT0 Pin=R26-1
+Added Pin To Net: NetName=CH340_D+ Pin=USB2-2
+Added Net: Name=CH340_D+
+Added Pin To Net: NetName=CH340_D- Pin=USB2-3
+Added Net: Name=CH340_D-

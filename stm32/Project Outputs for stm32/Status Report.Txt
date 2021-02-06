@@ -1,0 +1,11 @@
+Output: PADS ASCII Netlist
+Type  : PADSNetlist
+From  : Project [stm32.PrjPcb]
+   Generated File[stm32.NET]
+   Generated File[stm32.PRT]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 20:09:40 On 2021/1/21

@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=X2 Old Footprint=Radial,2x6mm New Footprint=HC-49S
+Added Pin To Net: NetName=VBAT Pin=BT1-2
+Added Room: Name=stm32
+Added Room: Name=stm32b

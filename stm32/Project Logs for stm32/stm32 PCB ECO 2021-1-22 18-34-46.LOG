@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=+3.3V Pin=P1-53
+Added Pin To Net: NetName=+3.3V Pin=P1-55
+Added Room: Name=stm32
+Added Room: Name=stm32b

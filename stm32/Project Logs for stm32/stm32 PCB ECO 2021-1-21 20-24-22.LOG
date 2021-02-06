@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=VREF- Pin=JP3-5
+Removed Pin From Net: NetName=VREF- Pin=JP3-6
+Removed Pin From Net: NetName=VREF- Pin=U1-31
+Removed Pin From Net: NetName=VREF+ Pin=U1-32
+Added Component: Designator=JP4(HDR2.54-LI-2x2P)
+Added Pin To Net: NetName=VREF+ Pin=JP4-2
+Added Pin To Net: NetName=VREF- Pin=JP4-4
+Change Net Name : Old Net Name=VREF+ New Net Name=VDDA
+Change Net Name : Old Net Name=VREF- New Net Name=GND
+Added Pin To Net: NetName=NetJP3_5 Pin=JP3-5
+Added Pin To Net: NetName=NetJP3_5 Pin=JP3-6
+Added Net: Name=NetJP3_5
+Added Pin To Net: NetName=VREF+ Pin=JP4-1
+Added Pin To Net: NetName=VREF+ Pin=U1-32
+Added Net: Name=VREF+
+Added Pin To Net: NetName=VREF- Pin=JP4-3
+Added Pin To Net: NetName=VREF- Pin=U1-31
+Added Net: Name=VREF-
+Added Member To Class: ClassName=stm32 Member=Component JP4 Header2X2
